@@ -1,0 +1,10 @@
+{
+  "SYSTEM_TITLE": "微商城后台管理",
+  "SYSTEM_SMALL_TITLE": "weixin shopping management system",
+  "LOGIN_SERVER": "http://39.100.34.183:8080/gm-sso-server/",
+  "UUMS_SERVER": "http://39.100.34.183:8085/uums-server/",
+  "APP_PATH": "http://39.100.34.183:8088/",
+  "APP_KEY": "GM_SEARCH",
+  "SEARCH_SERVER": "http://39.100.34.183:8088/search-server/",
+  "CLOUD_WINDOW_SERVER": "http://wh.greatmap.com.cn:48081/cloudwindow-acceptance-server/"
+}
